@@ -45,7 +45,8 @@ calculatrice-marge/
 
 │── README.md       # Documentation
 
-<img width="853" height="771" alt="image" src="https://github.com/user-attachments/assets/26a6fc2f-0f86-4e59-b071-38b285b951c2" />
+<img width="853" height="771" alt="image" src="https://github.com/user-attachments/assets/de99393d-a35f-4907-b67c-f92b30c5125c" />
+
 
 
 ---
