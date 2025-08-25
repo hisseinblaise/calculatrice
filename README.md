@@ -89,7 +89,7 @@ JavaScript  → Calcul et affichage dynamique
 
 # Reponses aux questions
 
-. Pourquoi est-il important d’utiliser une fonction pour le calcul de la marge bénéficiaire dans ce mini-calculateur, plutôt que de mettre directement le calcul dans le code principal ?
+* Pourquoi est-il important d’utiliser une fonction pour le calcul de la marge bénéficiaire dans ce mini-calculateur, plutôt que de mettre directement le calcul dans le code principal ?
 
 - On utilise la fonction pour le calcul de la marge bénéficiaire pour plusieurs raisons:
 
@@ -103,7 +103,7 @@ JavaScript  → Calcul et affichage dynamique
    
 5. Bonne pratique : Structurer le code en fonctions est une base de la programmation modulaire et propre.
 
-. Quelles conditions pourraient être testées pour afficher un message différent selon que la marge bénéficiaire soit positive, nulle ou négative ?
+* Quelles conditions pourraient être testées pour afficher un message différent selon que la marge bénéficiaire soit positive, nulle ou négative ?
    
 - Les conditions posssibles pour tester la marge sont :
 
