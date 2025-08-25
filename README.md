@@ -1,23 +1,23 @@
-# 🧮 Calculatrice de Marge Agricole
+#  Calculatrice de Marge Agricole
 
 Ce projet est une mini application web qui permet de calculer la marge bénéficiaire ou perte d’une exploitation agricole.
 L’utilisateur saisit ses dépenses (semences, engrais, main-d'œuvre, autres frais) et le montant de la vente, puis l’application affiche automatiquement la marge nette.
 
 ---
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
-✅ Saisie des coûts de production (semences, engrais, main-d'œuvre, autres).
+ Saisie des coûts de production (semences, engrais, main-d'œuvre, autres).
 
-✅ Saisie du montant total des ventes.
+ Saisie du montant total des ventes.
 
-✅ Calcul automatique de :
+ Calcul automatique de :
 
 Total des dépenses
 
 Marge (bénéfice ou perte)
 
-✅ Affichage d’un message dynamique :
+Affichage d’un message dynamique :
 
 🟢 Vert si bénéfice.
 
@@ -26,14 +26,14 @@ Marge (bénéfice ou perte)
 🔴 Rouge si perte.
 
 
-✅ Interface simple et responsive utilisable sur mobile ou ordinateur.
+ Interface simple et responsive utilisable sur mobile ou ordinateur.
 
 <img width="853" height="771" alt="image" src="https://github.com/user-attachments/assets/7cef6c10-4a0a-4683-8855-b246a7a19868" />
 
 
 ---
 
-##  📂 Structure du projet
+##   Structure du projet
 
 calculatrice-marge/
 
@@ -51,9 +51,9 @@ calculatrice-marge/
 
 ---
 
-## 💻 Exemple d’utilisation
+##  Exemple d’utilisation
 
-### 1️⃣ Entrée des données
+### 1️ Entrée des données
 
 Semences : 10 000 FCFA
 
@@ -71,13 +71,13 @@ Vente : 60 000 FCFA
 
 ---
 
-### 2️⃣ Résultat affiché
+### 2️ Résultat affiché
 
 Votre marge est de 10 000 FCFA.  Félicitations, vous êtes en bénéfice.
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 HTML5 → Structure de la page
 
@@ -87,7 +87,7 @@ JavaScript  → Calcul et affichage dynamique
 
 ---
 
-# 👨‍💻 Auteur
+# Auteur
 
 Projet réalisé par Hissein Blaise
 
