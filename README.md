@@ -87,6 +87,34 @@ JavaScript  → Calcul et affichage dynamique
 
 ---
 
+# Reponses aux questions
+
+. Pourquoi est-il important d’utiliser une fonction pour le calcul de la marge bénéficiaire dans ce mini-calculateur, plutôt que de mettre directement le calcul dans le code principal ?
+
+- On utilise la fonction pour le calcul de la marge bénéficiaire pour plusieurs raisons:
+
+1. Lisibilité : Le code est plus clair. Le calcul de la marge est isolé dans une fonction, ce qui rend le programme principal plus compréhensible.
+   
+2. Réutilisabilité : On peut appeler la fonction plusieurs fois à différents endroits sans répéter la formule.
+
+3. Évolutivité : Si la formule change (ex : ajout de taxes, de remises…), il suffit de modifier la fonction, pas tout le code.
+   
+4. Débogage facile : S’il y a une erreur dans le calcul, on n’a qu’un seul endroit à vérifier.
+   
+5. Bonne pratique : Structurer le code en fonctions est une base de la programmation modulaire et propre.
+
+. Quelles conditions pourraient être testées pour afficher un message différent selon que la marge bénéficiaire soit positive, nulle ou négative ?
+   
+- Les conditions posssibles pour tester la marge sont :
+
+1. marge supperieure à 0 (marge > 0) bénéfice,
+   
+2. marge égale à 0  (marge = 0) ni perte ni bénéfice et
+   
+3. marge inférieur à 0  (marge < 0) perte.
+
+---
+
 # Auteur
 
 Projet réalisé par Hissein Blaise
