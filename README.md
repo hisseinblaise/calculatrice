@@ -107,11 +107,11 @@ JavaScript  → Calcul et affichage dynamique
    
 - Les conditions posssibles pour tester la marge sont :
 
-1. marge supperieure à 0 (marge > 0) bénéfice,
+1. marge supperieure à 0 (marge > 0), bénéfice,
    
-2. marge égale à 0  (marge = 0) ni perte ni bénéfice et
+2. marge égale à 0  (marge = 0), ni perte ni bénéfice et
    
-3. marge inférieur à 0  (marge < 0) perte.
+3. marge inférieur à 0  (marge < 0), perte.
 
 ---
 
